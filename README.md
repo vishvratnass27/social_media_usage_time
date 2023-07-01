@@ -1,2 +1,3 @@
 # social_media_usage_time
 📊 Excited to present our multi-linear regression analysis on the relationship between social media usage time, study hours, and expected marks out of 100! 🎯📚📱  
+By leveraging advanced data science techniques, we've examined how social media usage time and study hours impact students' expected marks. Our goal is to uncover insights that can help individuals optimize their study habits and achieve their desired academic outcomes. Let's dive into the data and explore the factors influencing success in the digital age. #MultiLinearRegression #DataAnalysis #StudyHabits #AcademicSuccess
